@@ -1,0 +1,31 @@
+{
+  "name": "mumuki-mocha-worker-node12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^2.5.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parsimotion/mumuki-mocha-worker-node12.git"
+  },
+  "keywords": [
+    "mumuki",
+    "mocha",
+    "runner"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Parsimotion/mumuki-mocha-worker-node12/issues"
+  },
+  "homepage": "https://github.com/Parsimotion/mumuki-mocha-worker-node12#readme"
+}
