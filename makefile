@@ -1,5 +1,5 @@
 APP=mumuki-mocha-worker-node12
-VERSION=1.0
+VERSION=1.1
 IMAGE = $(APP):$(VERSION)
 
 deploy: build-image upload-acr
